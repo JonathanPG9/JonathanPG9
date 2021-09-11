@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, Soy Jonathan 👨🏻‍💻
+Soy Web Developer con experencia tanto en Frontend como en Backend
 
 <!--
 **JonathanPG9/JonathanPG9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
