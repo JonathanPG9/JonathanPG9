@@ -1,13 +1,13 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### Hola 👋, Soy Jonathan 👨🏻‍💻
-## Soy Web Developer con experencia tanto en Frontend con React como en Backend con Nodejs 💻
+<h1  align="center" > Hola 👋, Soy Jonathan 👨🏻‍💻 <h1/> 
+<h1  align="center" > Soy Web Developer con experencia tanto en Frontend con React como en Backend con Nodejs 💻🏻‍💻 <h1/>
 
 [![](https://img.shields.io/badge/LinkedIn-Jonathan-blue)](https://www.linkedin.com/in/jonathan-paniagua-802703149/)
 [![](https://img.shields.io/badge/Gmail-jonatanpaniagua21@gmail.com-red)](mailto:jonatanpaniagua21@gmail.com)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Conoce sobre mi...  
 ### Actualmente me encuentro trabajando en la empresa Globant con tecnologias como Nodejs,Express,EJS,JEST,Docker,Jenkis, y mas!
 
 
