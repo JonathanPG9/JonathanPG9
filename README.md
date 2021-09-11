@@ -1,5 +1,6 @@
-                                                                         ### Hola 👋, Soy Jonathan 👨🏻‍💻
-                                                        Soy Web Developer con experencia tanto en Frontend como en Backend
+### Hola 👋, Soy Jonathan 👨🏻‍💻
+Soy Web Developer con experencia tanto en Frontend como en Backend
+🔭 Actualmente me encuentro trabajando en la empresa Globant con tecnologias como Nodejs,Express,EJS,JEST,Docker,Jenkis, y mas!
 
 <!--
 **JonathanPG9/JonathanPG9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
