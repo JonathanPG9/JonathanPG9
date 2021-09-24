@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h1  align="center" > Hola 👋, Soy Jonathan 👨🏻‍💻 <h1/> 
-<h1  align="center" > Soy Web Developer con experencia tanto en Frontend con React como en Backend con Nodejs 💻🏻‍💻 <h1/>
+<h1  align="center" > Soy Web Developer con experencia tanto en Frontend/Mobile con React/React Native tambien cuenta con experencia en Backend con Nodejs Express 💻🏻‍💻 <h1/>
 
 [![](https://img.shields.io/badge/LinkedIn-Jonathan-blue)](https://www.linkedin.com/in/jonathan-paniagua-802703149/)
 [![](https://img.shields.io/badge/Gmail-jonatanpaniagua21@gmail.com-red)](mailto:jonatanpaniagua21@gmail.com)
