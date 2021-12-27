@@ -5,6 +5,7 @@
 
 [![](https://img.shields.io/badge/LinkedIn-Jonathan-blue)](https://www.linkedin.com/in/jonathan-paniagua-802703149/)
 [![](https://img.shields.io/badge/Gmail-jonatanpaniagua21@gmail.com-red)](mailto:jonatanpaniagua21@gmail.com)
+[![](https://img.shields.io/badge/Web-Jonathan-blue)](https://jonathanpaniagua.com/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Conoce sobre mi...  
